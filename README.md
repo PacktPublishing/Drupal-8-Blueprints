@@ -1,2 +1,2 @@
-# Drupal8Blueprints
-Code repository for Drupal8Blueprints, published by Packt
+# Drupal 8 Blueprints
+Code repository for Drupal 8 Blueprints, published by Packt
